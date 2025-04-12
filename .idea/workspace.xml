@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="030281f1-28ef-42e5-b158-32bedcee0557" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Controller/PropietarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Controller/Reserva_parqueaderoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Controller/Reserva_zonaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Controller/VisitanteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Controller/Zona_socialController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Repository/PropietarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Repository/Reserva_parqueaderoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Repository/Reserva_zonaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Repository/VisitanteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Repository/Zona_socialRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Service/PropietarioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Service/Reserva_parqueaderoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Service/Reserva_zonaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Service/VisitanteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Service/Zona_socialService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Model/Propietario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Model/Propietario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Model/Reserva_parqueadero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Model/Reserva_parqueadero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Model/Reserva_zona.java" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Model/reserva_zona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Model/Visitante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Model/Visitante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Model/Zona_social.java" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/java/com/example/quiz_conjunto/Model/Zona_social.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto/quiz_conjunto/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Quiz_conjunto/Quiz_conjunto" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2vSCJHiGH9ROxaVZdg4LitVsRWx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.QuizConjuntoApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/monca/Desktop/Quiz_conjunto"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.quiz_conjunto.Service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Quiz_conjunto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Quiz_conjunto" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="030281f1-28ef-42e5-b158-32bedcee0557" name="Changes" comment="" />
+      <created>1744129014707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744129014707</updated>
+    </task>
+    <servers />
+  </component>
+</project>
